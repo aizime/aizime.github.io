@@ -1,2 +1,2 @@
-aizime.github.io
+www.aizi.me
 ================
